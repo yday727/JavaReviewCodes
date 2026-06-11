@@ -27,11 +27,9 @@ JavaReviewCodes/
     └── systemStream/           # 标准流示例
 ```
 
-### 代码规范
-- 遵循Java命名约定
-- 添加适当的注释
-- 保持代码整洁和可读性
+## 许可证
+本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
-### 联系方式
+## 联系方式
 - 项目地址: [https://github.com/yday727/JavaReviewCodes](https://github.com/yday727/JavaReviewCodes)
 - 问题反馈: [Issues](https://github.com/yday727/JavaReviewCodes/issues)
