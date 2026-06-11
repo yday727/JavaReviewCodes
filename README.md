@@ -1,6 +1,6 @@
 # Java Review Codes
 
-一些Java课程示例代码，用于辅助理解Java课程。参考教材为
+一些Java课程示例代码，用于辅助理解Java课程。参考教材为Java程序设计教程（第三版），雍郡海著
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![JDK](https://img.shields.io/badge/JDK%20-25.0.8-purple.svg)
