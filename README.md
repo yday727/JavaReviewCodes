@@ -1,4 +1,4 @@
-# Review Codes
+# Java Review Codes
 
 一些Java课程示例代码，用于辅助理解Java课程。参考教材为
 
@@ -9,7 +9,7 @@
 
 ## 目录
 ```
-codes/                           
+JavaReviewCodes/                           
 ├── database/                   # 数据库示例
 ├── enumClass/                  # 枚举类示例
 ├── exceptionHandle/            # 异常处理示例
