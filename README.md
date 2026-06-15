@@ -21,10 +21,11 @@ JavaReviewCodes/
 ├── network/                    # 网络相关
 │   ├── tcp/                    # tcp示例
 │   └── udp/                    # udp示例
-└── stream/                     # 流相关
-    ├── fileOperation/          # 文件操作示例
-    ├── serialization/          # 序列化示例
-    └── systemStream/           # 标准流示例
+├── stream/                     # 流相关
+│   ├── fileOperation/          # 文件操作示例
+│   ├── serialization/          # 序列化示例
+│   └── systemStream/           # 标准流示例
+└── practice/                   # 练习题
 ```
 
 ##  贡献指南
