@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.generic;
+package generic;
 
 public class App {
     public static void main(String[] args) {
