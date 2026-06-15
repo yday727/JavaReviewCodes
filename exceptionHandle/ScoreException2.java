@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.exceptionHandle;
+package exceptionHandle;
 
 // 非检查型错误，签名方法无需抛出错误
 public class ScoreException2 extends RuntimeException {
