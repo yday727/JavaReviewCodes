@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.database;
+package database;
 
 import java.sql.*;
 
