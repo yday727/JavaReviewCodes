@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.enumClass;
+package enumClass;
 
 public enum HttpStatus implements StatusCode {
     SUCCESS(200, "请求成功"),
