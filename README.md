@@ -1,11 +1,11 @@
 # Java Review Codes
 
-一些Java课程示例代码，用于辅助理解Java课程。参考教材为Java程序设计教程（第三版），雍郡海著
+一些简单的Java课程示例代码，用于辅助理解Java课程。参考教材为Java程序设计教程（第三版），雍郡海著。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![JDK](https://img.shields.io/badge/JDK%20-25.0.8-purple.svg)
+![JDK](https://img.shields.io/badge/JDK-25.0.8-purple.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-![textbook](https://img.shields.io/badge/textbook-w-yellow.svg)
+![textbook](https://img.shields.io/badge/textbook-Java_Programming_Tutorial(3rd_Edition)-yellow.svg)
 
 ## 目录
 ```
@@ -26,6 +26,22 @@ JavaReviewCodes/
     ├── serialization/          # 序列化示例
     └── systemStream/           # 标准流示例
 ```
+
+##  贡献指南
+
+欢迎提交Issue和Pull Request！
+
+### 开发流程
+1. Fork本项目
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 创建Pull Request
+
+### 代码规范
+- 遵循Java命名约定
+- 添加适当的注释
+- 保持代码整洁和可读性
 
 ## 许可证
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
