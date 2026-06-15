@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.synchronizedAndLock;
+package synchronizedAndLock;
 
 public class App {
     public static void main(String[] args) {
