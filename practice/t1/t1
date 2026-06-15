@@ -1,0 +1,4 @@
+T1
+考点：定义类
+题目描述：
+    定义一个Student类，包含私有属性name（姓名）和age（年龄），提供构造方法、getter/setter方法、以即一个introduce()方法，输出“我的名字是XX，今年XX岁。”。

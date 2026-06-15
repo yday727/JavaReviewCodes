@@ -1,0 +1,4 @@
+T4
+考点：定义枚举类
+题目描述：
+    定义一个Weekday枚举类，包含周一到周日七个常量，每个常量的字段为对应中文，并提供boolean isWeekend(String weekday)方法判断中文的星期是否为周末。

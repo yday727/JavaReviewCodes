@@ -1,0 +1,4 @@
+T2
+考点：接口的定义及实现
+题目描述：
+    定义一个Shape接口，包含一个抽象方法double getArea()；再定义一个Circle类，实现Shape接口。

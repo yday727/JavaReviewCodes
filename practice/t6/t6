@@ -1,0 +1,5 @@
+T6
+考点：文件操作及异常处理
+题目描述：
+    编写程序读取test.txt文件的内容并打印，要求使用try-with-resource自动管理资源，使用try-catch-finally语句处理异常并在异常处理最后输出“执行完毕”；
+    自定义NullDocumentException异常，在文件为空时抛出异常。
