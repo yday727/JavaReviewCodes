@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.network.udp;
+package network.udp;
 
 import java.io.IOException;
 import java.net.DatagramPacket;
