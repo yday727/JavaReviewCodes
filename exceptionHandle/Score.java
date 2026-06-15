@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.exceptionHandle;
+package exceptionHandle;
 
 public class Score {
     private int score1;
