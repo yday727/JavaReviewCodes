@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.threadCommunication;
+package multithread.threadCommunication;
 
 public class NumPrinter {
     /**
