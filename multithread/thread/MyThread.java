@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.thread;
+package multithread.thread;
 
 // 继承Thread类
 public class MyThread extends Thread {
