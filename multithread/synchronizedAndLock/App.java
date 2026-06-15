@@ -1,4 +1,4 @@
-package synchronizedAndLock;
+package multithreads.synchronizedAndLock;
 
 public class App {
     public static void main(String[] args) {
