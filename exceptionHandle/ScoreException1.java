@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.exceptionHandle;
+package exceptionHandle;
 
 // 检查型错误，抛出该错误的签名方法需添加throws ScoreException1
 public class ScoreException1 extends Exception {
