@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.enumClass;
+package enumClass;
 
 public class App {
     public static void main(String[] args) {
