@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.enumClass;
+package enumClass;
 
 public interface StatusCode {
     int getCode();
