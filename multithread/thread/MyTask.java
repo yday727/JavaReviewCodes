@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.thread;
+package multithread.thread;
 
 // 实现Runnable接口
 class MyTask implements Runnable {
