@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.synchronizedAndLock;
+package multithread.synchronizedAndLock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
