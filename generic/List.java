@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.generic;
+package generic;
 
 import java.util.Arrays;
 import java.util.Comparator;
