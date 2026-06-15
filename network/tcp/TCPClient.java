@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.network.tcp;
+package network.tcp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
