@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.stream.systemStream;
+package stream.systemStream;
 
 import java.io.IOException;
 
@@ -10,7 +10,7 @@ public class App {
             char ch =  (char)byteValue;
             System.out.println("输入的字符为：" + ch);    // 输出并换行
         } catch (IOException e) {
-            e.printStackTrace();
+            System.err.println(e);    // 从错误流输出异常
         }
     }
 }
