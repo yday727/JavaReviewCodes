@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.stream.fileOperation;
+package stream.fileOperation;
 
 import java.io.*;
 
