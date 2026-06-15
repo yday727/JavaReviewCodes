@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.stream.serialization;
+package stream.serialization;
 
 import java.io.Serial;
 import java.io.Serializable;
