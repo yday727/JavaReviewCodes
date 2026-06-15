@@ -1,4 +1,4 @@
-package com.yday72__7.reviewCodes.multithread.synchronizedAndLock;
+package multithread.synchronizedAndLock;
 
 public class SomeThread{
     static class Thread1 implements Runnable{
