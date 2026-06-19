@@ -25,7 +25,8 @@ JavaReviewCodes/
 │   ├── fileOperation/          # 文件操作示例
 │   ├── serialization/          # 序列化示例
 │   └── systemStream/           # 标准流示例
-└── practice/                   # 练习题
+├── practice/                   # 练习题
+└── points.pdf                  # 课程要点总结
 ```
 
 ##  贡献指南
