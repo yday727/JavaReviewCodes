@@ -26,7 +26,8 @@ JavaReviewCodes/
 │   ├── serialization/          # 序列化示例
 │   └── systemStream/           # 标准流示例
 ├── practice/                   # 练习题
-└── points.pdf                  # 课程要点总结
+├── exercise/                   # 随堂练习题
+└── extraExercise/              # 额外练习题
 ```
 
 ##  贡献指南
