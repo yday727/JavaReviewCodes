@@ -1,0 +1,8 @@
+Java泛型和枚举
+任务1：泛型应⽤
+①　定义⼀个泛型类 Pair<T, U> ，包含两个字段 first 和 second ，实现
+交换两个字段值的⽅法 swap() 。
+②　编写泛型⽅法 findMax(T[] array) ，返回数组中的最⼤值（要求元素实现 Comparable 接⼝）。
+
+任务2：枚举应⽤
+定义枚举 Weekday ，表示星期⼀到星期日，添加方法 isWeekend() 判断是否为周末。

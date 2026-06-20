@@ -1,0 +1,2 @@
+Java集合练习
+自定义Student类（含姓名、年龄），创建3个学生对象并添加到ArrayList中。学生对象的年龄采用随机数生成（java.util.Random），生成的随机数范围为0~35。用增强for循环和Iterator两种方式遍历并输出学生信息。检测每个学生的年龄，如果大于30，则抛出IllegalAgeException，并从ArrayList中删除该学生。
