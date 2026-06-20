@@ -1,4 +1,4 @@
-package practice.t2;
+package extraExercise.t2;
 
 public class Circle implements Shape {
     private double radius;

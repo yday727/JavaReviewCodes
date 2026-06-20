@@ -1,6 +1,6 @@
-package practice.t5;
+package extraExercise.t5;
 
-public class MyRunnable implements Runnable {
+public class MyThread extends Thread {
     @Override
     public void run() {
         for (int i = 1; i < 6; i++) {

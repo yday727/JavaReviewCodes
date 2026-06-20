@@ -1,4 +1,4 @@
-package practice.t4;
+package extraExercise.t4;
 
 public enum Weekday {
     Monday("周一"),

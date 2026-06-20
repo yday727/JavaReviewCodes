@@ -1,4 +1,4 @@
-package practice.t1;
+package extraExercise.t1;
 
 public class Student {
     private String name;

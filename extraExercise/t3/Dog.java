@@ -1,4 +1,4 @@
-package practice.t3;
+package extraExercise.t3;
 
 public class Dog extends Animal{
     public Dog() {};

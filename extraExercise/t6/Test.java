@@ -1,4 +1,4 @@
-package practice.t6;
+package extraExercise.t6;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

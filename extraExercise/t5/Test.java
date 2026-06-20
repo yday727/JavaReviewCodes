@@ -1,4 +1,4 @@
-package practice.t5;
+package extraExercise.t5;
 
 public class Test {
     public static void main(String[] args) {
